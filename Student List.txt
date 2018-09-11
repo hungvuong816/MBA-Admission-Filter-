@@ -1,0 +1,35 @@
+Steven Job	 Male	America	24	740
+Jeff Bezos	 Male	America	31	780
+Mary Boule	Female	Sweden	19	720
+Elon  Musk	 Male	Austria	32	650
+Dani Alves	 Male	Turkeys	22	715
+Devina Sut	Female	 India	19	695
+Kims Tange	Female	Taiwan	32	500
+Wayne Roon	 Male	England	21	550
+Toni kross	 Male	Germany	28	620
+David DeGe	 Male	 Brazil	18	615
+Lewandoski	Male	  Canada	24	637
+MArio Merg	 Male	 Poland	26	450
+Leslie Chi	Female	Canada	34	601
+Kenesha Th	Female	Poland	34	652
+Peter Tran	 Male	Vietnam	35	693
+Michael Le	 Male	Nigeria	27	513
+Karin Benz	 Male	Nigeria	25	633
+David Luis	 Male	Vietnam	29	571
+Mickeytari	 Male	Vietnam	18	689
+Thomas Mul	Male	  Korean	20	500
+Marco Reus	Male	  Korean	18	683
+Victor Van	Male	  France	34	700
+Hiep Trans	 Male	Vietnam	30	553
+Robin Vanp	  Male	Italia	31	688
+Chicharito	Female	Mexico	27	574
+Dembele Sr	Female	Mexico	21	693
+Lion Messi	Female	Mexico	31	566
+Luis Suare	Female	Serbia	27	639
+Neymar JKR	Female	Russia	29	658
+Park Jisun	 Male	Germany	23	676
+Bill Gates	 Male	America	30	705
+Edin Zekos	 Male	Holland	33	647
+Moha Sala	Female	  Egypt	30	500
+Aren Roben	  Male	Russia	21	519
+Dani Alves	Female	Sweden	24	593
